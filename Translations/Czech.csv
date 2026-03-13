@@ -1,6 +1,6 @@
 Key,Translation,Version,Comment (context for translators)
 <Gamepad>,Ovladač,,Used in input settings when showing bindings for Gamepad (controller) 
-<Keyboard>,Klávesnice,,Used in input settings when showing bindings for Keyboard 
+<Keyboard>,Klávesnicee,,Used in input settings when showing bindings for Keyboard 
 <Mouse>,Myš,,Used in input settings when showing bindings for Mouse
 abort,Zrušit,,"Text on a button that would abort some ongoing operation. It is different from ""cancel"" since something can be cancelled before it starts, but aborting implies that operation has already begun."
 aborting.expedition.died,Expedice zrušena. Člen posádky {0} zemřel před nástupem do raketoplánu.,,{0} will be replaced with a name
